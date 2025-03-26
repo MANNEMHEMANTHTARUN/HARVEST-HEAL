@@ -1,1 +1,3 @@
-# HARVEST-HEAL
+# HARVEST & HEAL
+
+Organic Food eCommerce website
